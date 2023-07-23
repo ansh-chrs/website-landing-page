@@ -176,3 +176,12 @@ h3 {
     align-self: center;
     flex-grow: 0;
 }
+
+
+/* Footer section */
+footer{
+    text-align: center;
+    padding:50px 35%;
+    background-color: #1F2937;
+    color:#E5E7EB;
+}
