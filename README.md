@@ -1,0 +1,1 @@
+This project is meant to practice making basic webpage layouts using flex box.
