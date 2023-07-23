@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+    display:flex;
+    width:100%;
+    padding:20px 25%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+ul{
+    display:flex;
+    margin: 0;
+    padding:0;
+    list-style-type:none;
+    color:#E5E7EB;
+    
+}
+
+ul li{
+    margin:5px 10px;
+    font-size: 1rem;
+}
+
+.logo{
+  font-size: 1.4rem;
+ color: #E5E7EB;
+ font-weight: bolder;
+}
+
